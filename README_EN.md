@@ -6,7 +6,7 @@ This repository collects MengyuanWang's group meeting presentation materials. Th
 
 | Topic | File | Video |
 | --- | --- | --- |
-| Human-JEPA (Chinese) | [PDF](./Human-JEPA-%E7%8E%8B%E6%A2%A6%E5%9C%86-20261020.pdf) |  |
+| Human-JEPA Paper Presentation (Chinese) | [PDF](./Human-JEPA-%E7%8E%8B%E6%A2%A6%E5%9C%86-20261020.pdf) |  |
 | The Impact of GPT-6 Astra on Embodied AI | [PDF](./GPT-6%20Astra%E5%AF%B9%E5%85%B7%E8%BA%AB%E7%9A%84%E5%BD%B1%E5%93%8D%E6%95%B4%E7%90%86.pdf) |  |
 | Self-Supervised Representation Learning and Contrastive Learning | [PDF](./计算机视觉系列-Self‑Supervised%20Representation%20Learning%20%26%20Contrastive%20Learning-王梦圆-20260903.pdf) | [Bilibili](https://www.bilibili.com/video/BV136ti6fEed/) |
 | World Model and World Action Model | [PDF](./World%20Model%20%26%20World%20Action%20Model-王梦圆-20260829.pdf) | [Bilibili](https://www.bilibili.com/video/BV1Kitt68EyE/) |
