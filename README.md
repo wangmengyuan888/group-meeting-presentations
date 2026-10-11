@@ -2,12 +2,13 @@
 
 English index: [README_EN.md](./README_EN.md)
 
-这里整理了 MengyuanWang's 组会学习报告与专题介绍，内容主要涉及计算机视觉与具身智能。仓库中的 PPT 均为英文制作，README 提供中文索引。
+这里整理了 MengyuanWang's 组会学习报告与专题介绍，内容主要涉及计算机视觉与具身智能。除 Human-JEPA 为中文演示文稿外，其余演示文稿均为英文制作，README 提供中文索引。
 
 ## 演示文稿
 
 | 主题 | 文件 | 视频 |
 | --- | --- | --- |
+| Human-JEPA（中文） | [PDF](./Human-JEPA-%E7%8E%8B%E6%A2%A6%E5%9C%86-20261020.pdf) |  |
 | GPT-6 Astra 对具身智能的影响 | [PDF](./GPT-6%20Astra%E5%AF%B9%E5%85%B7%E8%BA%AB%E7%9A%84%E5%BD%B1%E5%93%8D%E6%95%B4%E7%90%86.pdf) |  |
 | 自监督表示学习与对比学习 | [PDF](./计算机视觉系列-Self‑Supervised%20Representation%20Learning%20%26%20Contrastive%20Learning-王梦圆-20260903.pdf) | [Bilibili](https://www.bilibili.com/video/BV136ti6fEed/) |
 | 世界模型与世界动作模型 | [PDF](./World%20Model%20%26%20World%20Action%20Model-王梦圆-20260829.pdf) | [Bilibili](https://www.bilibili.com/video/BV1Kitt68EyE/) |
