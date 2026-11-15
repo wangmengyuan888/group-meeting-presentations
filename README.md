@@ -15,9 +15,10 @@ English index: [README_EN.md](./README_EN.md)
 | 机器人学习基础 | [PDF](./Fundamentals%20of%20Robot%20Learning-王梦圆-20260815.pdf) | [Bilibili](https://www.bilibili.com/video/BV1TAbS6xELE/) |
 | 从 VLM 到 VLA：概念、架构、数据与训练方法 | [PDF](./From%20VLM%20to%20VLA%EF%BC%9AConcepts%2C%20Architectures%2C%20Data%20%26%20Training%20Methods-王梦圆-20260822.pdf) | [Bilibili](https://www.bilibili.com/video/BV15q8t62EzR/) |
 | 具身智能基础（三讲） | [PDF](./Embodied%20AI%E5%89%8D%E4%B8%89%E8%AE%B2%E5%9F%BA%E7%A1%80-王梦圆.pdf) |  |
-| Flux 架构解析 | [PDF](./Demystifying%20Flux%20Architecture-王梦圆-20261117.pdf) · [PPTX](./Demystifying%20Flux%20Architecture-王梦圆-20261117.pptx) |  |
+| Flux 架构解析 | [PDF](./Demystifying%20Flux%20Architecture-王梦圆-20261117.pdf) |  |
 
 ## 说明
 
 这些材料用于学习交流和组会分享。部分内容可能基于公开论文、技术报告或开源项目整理，版权归原作者及相应项目所有。
+
 
