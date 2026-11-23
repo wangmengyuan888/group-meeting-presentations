@@ -16,7 +16,7 @@ English index: [README_EN.md](./README_EN.md)
 | 从 VLM 到 VLA：概念、架构、数据与训练方法 | [PDF](./From%20VLM%20to%20VLA%EF%BC%9AConcepts%2C%20Architectures%2C%20Data%20%26%20Training%20Methods-王梦圆-20260822.pdf) | [Bilibili](https://www.bilibili.com/video/BV15q8t62EzR/) |
 | 具身智能基础（三讲） | [PDF](./Embodied%20AI%E5%89%8D%E4%B8%89%E8%AE%B2%E5%9F%BA%E7%A1%80-王梦圆.pdf) |  |
 | Flux 架构解析 | [PDF](./Demystifying%20Flux%20Architecture-王梦圆-20261117.pdf) |  |
-| 端到端「听、看、说与行动」 | [PDF](./End-to-end%20Listen%2C%20Look%2C%20Speak%20and%20Act-%E7%8E%8B%E6%A2%A6%E5%9C%86-20261124.pdf) |  |
+| 端到端「听、看、说与行动」（ELLSA论文汇报） | [PDF](./End-to-end%20Listen%2C%20Look%2C%20Speak%20and%20Act-%E7%8E%8B%E6%A2%A6%E5%9C%86-20261124.pdf) |  |
 
 ## 说明
 
